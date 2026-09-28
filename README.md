@@ -6,7 +6,7 @@ I'm a Site Reliability and Platform Engineer with experience supporting enterpri
 
 My work focuses on troubleshooting complex infrastructure and platform issues, automating infrastructure, improving reliability, and supporting secure and scalable developer environments.
 
-I enjoy working across multiple technologies and understanding how systems interact — from source control and CI/CD pipelines to Kubernetes workloads, cloud infrastructure, networking, authentication, and monitoring.
+I enjoy working across multiple technologies and understanding how systems interact from source control and CI/CD pipelines to Kubernetes workloads, cloud infrastructure, networking, authentication, and monitoring.
 
 ---
 
